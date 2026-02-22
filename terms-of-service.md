@@ -1,14 +1,14 @@
-# Terms of Service for Career Journal
+# Terms of Service for Briefly
 
 **Last Updated: January 18, 2026**
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Career Journal ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using Briefly ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. Description of Service
 
-Career Journal is a mobile application that allows users to:
+Briefly is a mobile application that allows users to:
 
 - Create and manage career journal entries
 - Track professional accomplishments and growth
@@ -42,7 +42,6 @@ Career Journal is a mobile application that allows users to:
 ### 4.2 Paid Subscriptions
 
 - **Monthly Subscription**: $1.99 per month, auto-renews monthly
-- **Yearly Subscription**: $17.99 per year, auto-renews annually
 
 ### 4.3 Payment and Billing
 
@@ -143,7 +142,7 @@ You agree NOT to:
 
 ### 9.1 App Ownership
 
-- The App, including its design, code, features, and trademarks, is owned by Career Journal
+- The App, including its design, code, features, and trademarks, is owned by Briefly
 - These Terms do not grant you any ownership rights to the App
 
 ### 9.2 License to Use
@@ -170,7 +169,7 @@ You agree NOT to:
 
 ## 11. Indemnification
 
-You agree to indemnify and hold harmless Career Journal, its affiliates, and their respective officers, directors, and employees from any claims, damages, losses, or expenses (including legal fees) arising from:
+You agree to indemnify and hold harmless Briefly, its affiliates, and their respective officers, directors, and employees from any claims, damages, losses, or expenses (including legal fees) arising from:
 
 - Your use of the App
 - Your violation of these Terms
@@ -231,7 +230,7 @@ These Terms shall be governed by and construed in accordance with the laws of [Y
 
 ### 16.1 Entire Agreement
 
-These Terms, together with the Privacy Policy, constitute the entire agreement between you and Career Journal.
+These Terms, together with the Privacy Policy, constitute the entire agreement between you and Briefly.
 
 ### 16.2 Severability
 
@@ -257,4 +256,4 @@ If you have questions about these Terms, please contact us at:
 
 ---
 
-**Acknowledgment**: By using Career Journal, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our Privacy Policy.
+**Acknowledgment**: By using Briefly, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our Privacy Policy.

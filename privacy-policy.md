@@ -1,10 +1,10 @@
-# Privacy Policy for Career Journal
+# Privacy Policy for Briefly
 
 **Last Updated: January 18, 2026**
 
 ## Introduction
 
-Career Journal ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Briefly ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 
@@ -23,7 +23,7 @@ Career Journal ("we", "our", or "us") respects your privacy and is committed to 
 
 We use your information to:
 
-- Provide and maintain the Career Journal service
+- Provide and maintain the Briefly service
 - Generate AI-powered career summaries based on your journal entries
 - Sync your data across your devices
 - Send optional notifications based on your preferences
@@ -49,7 +49,7 @@ We implement appropriate technical and organizational security measures to prote
 
 ## AI-Powered Features
 
-Career Journal uses OpenAI's GPT models to generate career summaries based on your journal entries. When you request a summary:
+Briefly uses OpenAI's GPT models to generate career summaries based on your journal entries. When you request a summary:
 
 - Your journal entries are sent to OpenAI's API for processing
 - OpenAI processes this data to generate personalized career insights
@@ -93,7 +93,7 @@ We do not sell, trade, or rent your personal information to third parties. We sh
 
 ## Children's Privacy
 
-Career Journal is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+Briefly is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Privacy Policy
 
